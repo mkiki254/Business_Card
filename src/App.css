@@ -68,3 +68,22 @@ button{
     font-weight: 500;
     font-size: 14px;
 }
+
+.about-title{
+    font-family: sans-serif;
+    margin-top: 33px;
+    margin-left: 116px;
+    margin-bottom: 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: #F5F5F5;
+}
+
+.about-content{
+    font-family: sans-serif;
+    margin-top: 5px;
+    margin-left: 116px;
+    width: 60%;
+    color: #DCDCDC;
+    margin-bottom: 0;
+}
