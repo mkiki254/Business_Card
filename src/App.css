@@ -69,7 +69,7 @@ button{
     font-size: 14px;
 }
 
-.about-title{
+.about-title, .interests-title{
     font-family: sans-serif;
     margin-top: 33px;
     margin-left: 116px;
@@ -79,7 +79,7 @@ button{
     color: #F5F5F5;
 }
 
-.about-content{
+.about-content, .interests-content{
     font-family: sans-serif;
     margin-top: 5px;
     margin-left: 116px;
@@ -87,3 +87,4 @@ button{
     color: #DCDCDC;
     margin-bottom: 0;
 }
+
